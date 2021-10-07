@@ -1,0 +1,24 @@
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body { 
+    margin: 0px;
+  }
+  
+  h1,h2,h3,h4,h5,h6 {
+    margin: 0px;
+  }
+  
+  a, a:visited, a:link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  
+  .container {
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid #000;
+  }
